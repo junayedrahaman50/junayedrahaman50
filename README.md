@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junayed Rahaman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
+<br>
 - 🔭 I’m currently working on [Real Time Chat Application](https://github.com/junayedrahaman50/Real-Time-Chat-App)
 
 - 🌱 I’m currently learning **React, Redux, and, ReactNative**

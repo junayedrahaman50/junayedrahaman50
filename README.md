@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junayed Rahaman</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=junayedrahaman50&label=Profile%20views&color=0e75b6&style=flat" alt="junayedrahaman50" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junayedrahaman50" alt="junayedrahaman50" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/junayed_rahaman" target="blank"><img src="https://img.shields.io/twitter/follow/junayed_rahaman?logo=twitter&style=for-the-badge" alt="junayed_rahaman" /></a> </p>
-
 - 🔭 I’m currently working on [Real Time Chat Application](https://github.com/junayedrahaman50/Real-Time-Chat-App)
 
 - 🌱 I’m currently learning **React, Redux, and, ReactNative**

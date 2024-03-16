@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Junayed Rahaman<br>A passionate Full Stack Developer from India<br><br>- 🔭 I’m currently working on [Task Management Application](https://github.com/junayedrahaman50/task-viewer)<br><br>- 🌱 I’m currently learning **React, Redux, and, ReactNative**<br><br>- 👨‍💻 All of my projects are available at [https://webpixels.netlify.app/](https://webpixels.netlify.app/)<br><br>- 💬 Ask me about **HTML/CSS, JavaScript, NodeJS, and, MongoDB**<br><br>- 📫 How to reach me **junayedrahaman98@yahoo.com**<br><br>- 📄 Know about my experiences [https://drive.google.com/file/d/1bl47S0-Sh6OaNwAmIrkBOe1iBO1LaAL2/view?usp=sharing](https://drive.google.com/file/d/1bl47S0-Sh6OaNwAmIrkBOe1iBO1LaAL2/view?usp=sharing)
 
 
@@ -12,4 +11,3 @@ Hi 👋, I'm Junayed Rahaman<br>A passionate Full Stack Developer from India<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=junayedrahaman50&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=junayedrahaman50&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

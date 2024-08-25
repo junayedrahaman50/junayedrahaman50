@@ -4,7 +4,7 @@
 
 
 <p>💼 Any freelance work? do reach, <a href="mailto:junayedrahaman98@yahoo.com">Email</a> :)</p>
-<p>Checkout what i am building here : <a href="https://twitter.com/junayed_rahaman">Twitter</a></p>
+<p>🧑‍💻 Checkout what i am building here : <a href="https://twitter.com/junayed_rahaman">Twitter</a></p>
 
 <h2> About Me </h2>
 <ul><li>I love exploring new technologies, working on new ideas, innovating and tinkering with stuff.</li>

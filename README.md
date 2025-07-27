@@ -1,6 +1,6 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/raw/main/header_.png" alt style="max-width: 100%;" />
 <h2> Hey Everyone ! 👋</h2>
-<p>I’m Junayed. A passionate Web Developer and Indie Maker from India.</p>
+<p>I’m Junayed. A passionate Software Engineer and Indie Maker from India.</p>
 
 
 <p>💼 Any freelance work? do reach, <a href="mailto:junayedrahaman98@yahoo.com">Email</a> :)</p>
